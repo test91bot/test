@@ -18,9 +18,9 @@ users = json.load(open("sessions/usersJson/users.json"))
 
 
 # BOT
-api_id_bot = 1724716
-api_hash_bot = "00b2d8f59c12c1b9a4bc63b70b461b2f"
-bot = TelegramClient("Bot/bot", api_id_bot, api_hash_bot).start(bot_token="5306342972:AAEwMs0RM1tDGixCVKql7AFWIiArfqs0z6w")
+api_id_bot = 1608052
+api_hash_bot = "118dc746d46105c7c26831329b7c63b2"
+bot = TelegramClient("Bot/bot", api_id_bot, api_hash_bot).start(bot_token="5012595755:AAEdB26JepEB1cf6Q6cLOuhIC1fD3sUEm1A")
 
 # BOT OWNER
 owner_id = 5048738026
